@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royall and delightfull game of picquet. Written in French: and now rendred into English out of the last French edition.</title>
+         </titleStmt>
+         <extent>Approx. 41KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92043</idno><idno type="EEBO-CITATION">99868185</idno>
+  <idno type="VID">169861</idno>
+  <idno type="EEBO-PROQUEST">2248503340</idno>
+  
+            <idno type="STC">Wing R2100</idno>
+            <idno type="STC">Thomason E1369_3</idno>
+            <idno type="STC">ESTC R209301</idno>
+            <idno type="PROQUEST">99868185</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868185e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92043)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169861)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 179:E1369[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royall and delightfull game of picquet. Written in French: and now rendred into English out of the last French edition.</title>
+               </titleStmt>
+               <extent>[8], 62 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Martin, and J. Ridley, and are to be sold at the Castle in Fleet-street nere Ram-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Original not traced.</note>
+                  <note>Annotation on Thomason copy: "March 4 1652"; imprint date crossed through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Piquet (Game) --  Early works to 1800.</term>
+               <term type="topical_term">Card games --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169861:1"/>
+            <p>THE ROYALL AND <hi>DELIGHTFULL GAME</hi> Of <hi>PICQUET.</hi>
+            </p>
+            <p>Written in French: and now rendred into English out of the last French Edition.</p>
+            <p>LONDON Printed for <hi>J. Martin,</hi> and <hi>J. Ridley,</hi> and are to be sold at the Castle in Fleet-street nere <hi>Ram-Alley.</hi> 1651.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169861:2"/>
+            <pb facs="tcp:169861:2"/>
+            <head>THE <hi>STATIONER</hi> To the READERS.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here comming to my hands not long since a small Trea<g ref="char:EOLhyphen"/>tise, concerning the game
+<pb facs="tcp:169861:3"/>of <hi>PICQUET,</hi> and ha<g ref="char:EOLhyphen"/>ving perused the same; I have since thought fit to communicate it to the World; as being a game approved of every where, especially a<g ref="char:EOLhyphen"/>mong all the Gentry, and persons of Honour. It is a kind of Divertion, so sweet, and pleasing, as that it makes the houres slide away in<g ref="char:EOLhyphen"/>sensibly: it easeth the Gouty person; cleares
+<pb facs="tcp:169861:3"/>up the melancholicke spirit; and refresheth the pensive Lover. These considerations are of sufficient force to raise up in any one a desire to the Play: But that which should most stir you up to the purcha<g ref="char:EOLhyphen"/>sing of this Booke, is, that you have here laid downe before you, an absolute, and exact ac<g ref="char:EOLhyphen"/>count of the whole
+<pb facs="tcp:169861:4"/>Game, and have all the difficulties, that may a<g ref="char:EOLhyphen"/>rise therein, fully re<g ref="char:EOLhyphen"/>solved. If you there<g ref="char:EOLhyphen"/>fore but observe the Rules, and Maximes here delivered; you shall avoid all the quar<g ref="char:EOLhyphen"/>rells, which usually a<g ref="char:EOLhyphen"/>rise amongst Gamesters, for want of being throughly informed in the Game; and shall preserve mutuall Soci<g ref="char:EOLhyphen"/>ety,
+<pb facs="tcp:169861:4"/>which is the Bond that unites all things. Be sure therefore that you purchase this Booke: For in so doing, you shall not only much advan<g ref="char:EOLhyphen"/>tage your selves, but me also: Who am</p>
+            <closer>
+               <signed>Your most humble and most affectionate servant J. C. B M D. L. M.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169861:5"/>
+            <pb facs="tcp:169861:5"/>
+            <head>THE Pleasant and delightfull Game of <hi>PICQUET.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP I.</head>
+               <argument>
+                  <p>
+                     <hi>Of the Cards that are to be plaid with, and the number of them.</hi>
+                  </p>
+               </argument>
+               <p>
+                  <seg rend="decorInit">F</seg>Irst of all, you must take out of a Pack of Cards all the Deuces, Treys, Foures, and Fives, and so play with the rest, which amount in all to thirty six.</p>
+               <pb n="2" facs="tcp:169861:6"/>
+               <p> Then the two Gamesters are to agree upon the number of the <hi>Set,</hi> how many they will make up; which vsually is a Hundred. Yet notwithstanding it is in the choice of the Game<g ref="char:EOLhyphen"/>sters to make the Game more, or lesse, according as they please: And he, that first comes to the number agreed upon, wins the <hi>Set.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>
+                     <hi>Of Lifting for Dealing.</hi>
+                  </p>
+               </argument>
+               <p>VVhen you are now going to play, you are first of all to see who shall deale: where you are to note, that it is a great
+<pb n="3" facs="tcp:169861:6"/>disadvantage to be Dealer. The vsuall way of trying for this is, by each mans taking up as many, or as few of the Cards as he pleaseth; provided alwaies that he take up more then one. For a man must not take a single Card only; because possibly he may know it by the back-side. Now which soever of the two dips the least Card, he is to deale: And if by chance, as it often happens, through hastinesse in lifting, any Card drop off from those he takes up, and falls upon the table, there is no notice to be taken of That Card, but only of the lowest of those which he hath in his hand.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="4" facs="tcp:169861:7"/>
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>
+                     <hi>Of the value of the Cards.</hi>
+                  </p>
+               </argument>
+               <p>THe Cards are in value, according to the number of the points they beare, all except the <hi>Ace,</hi> which goes for Eleven: so that by this meanes it winnes the <hi>King,</hi> as the <hi>King</hi> does the <hi>Queen,</hi> the <hi>Queen</hi> the <hi>Knave,</hi> and the <hi>Knave</hi> the <hi>Ten;</hi> and so in order downe to the <hi>Six,</hi> which is the least of all.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="5" facs="tcp:169861:7"/>
+               <head>CHAP. IV.</head>
+               <argument>
+                  <p>
+                     <hi>Of Dealing.</hi>
+                  </p>
+               </argument>
+               <p>THe Dealer, that is to say, he that in Lifting had the least Card, is to shuffle the Cards; which when he hath done, he is to lay them before the other to cut them; which he is to do cleanly, without scattering any of them. For if in cutting of them, he chance to drop, or scatter any of them, it goes for nothing; and the Cards in this case are to be shuffled and cut again. When this is done, the Dealer delivers them out, in what number he pleaseth, so
+<pb n="6" facs="tcp:169861:8"/>that it be not above Foure, nor under Two. And with what number he begins his dealing, he is to continue the same till he hath dealt to each his dou<g ref="char:EOLhyphen"/>zen: And the Twelve that re<g ref="char:EOLhyphen"/>maine, are to be laid upon the ta<g ref="char:EOLhyphen"/>ble betwixt the two gamesters.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <argument>
+                  <p>
+                     <hi>Of a</hi> Blanche, <hi>or White Game.</hi>
+                  </p>
+               </argument>
+               <p>THe Gamesters then hav<g ref="char:EOLhyphen"/>ing each of them taken up their Cards, and sur<g ref="char:EOLhyphen"/>vaid them, if he that is the Elder hand find that he hath never a Coat Card in his hand, he saies to the other, <hi>I have a</hi> Blanche,
+<pb n="7" facs="tcp:169861:8"/>
+                  <hi>and I intend to discard so many Cards: and that you may see my</hi> Blanche, <hi>do you discard as many Cards as you intend to do.</hi> Which being done, the Elder hand shewes the other all his twelve Cards; which the other may take time to look over, to see that there be no Card turnd, nor concealed by designe. Which done, he that hath the <hi>Blanche,</hi> reckons Ten for it: and so taking up his Cards again, he discards those which he thinks fit; but alwaies is bound to the same number which he at first propounded. This being done, he takes out of the stock as many Cards as he hath laid out. Now if it so
+<pb n="8" facs="tcp:169861:9"/>happen, that the other also have a <hi>Blanche</hi> as well as he; notwith<g ref="char:EOLhyphen"/>standing that the Elder hand's <hi>Blanche</hi> should consist of the bigger Cards, yet for all this the Younger hand's <hi>Blanche</hi> shall serve for a Barre to the Former's, and shall also hinder his <hi>Picq,</hi> and <hi>Repicq.</hi>
+               </p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI.</head>
+               <argument>
+                  <p>
+                     <hi>Of Discarding: and what Advan<g ref="char:EOLhyphen"/>tages the Eldest hand hath therein.</hi>
+                  </p>
+               </argument>
+               <p>HE, that is the Eldest hand, hath great advantage in Discarding; for as much as he hath liberty to take in Eight of the Twelve Cards
+<pb n="9" facs="tcp:169861:9"/>which are remaining in the stock; having first discarded as many of his owne: and it is al<g ref="char:EOLhyphen"/>so in his choice, according as he finds his game, to take fewer; that is, either One, Two, Three, Foure, Five, Six, or Seven; hav<g ref="char:EOLhyphen"/>ing first discarded so many of his owne, as hath been formerly said. And if he take in lesse then Eight, he hath liberty to look upon the remainder of those Eight, laying them downe again upon the rest, after he hath seen them, in the same order they were in. Then may the other af<g ref="char:EOLhyphen"/>terwards take all the rest, or else as few as he Pleaseth, discard<g ref="char:EOLhyphen"/>ing likewise as many of his own.
+<pb n="10" facs="tcp:169861:10"/>But if he take not all of them in the Elder hand also hath power to see them, after the other hath seen them; provided alwaies, that he first tell the other what Suit he intends to play: by which he is obliged to play the same suit, which he said he would play. And if by chance it should so fall out, that either by mistake, or else with apurpose of cheating, he should say, <hi>I will play such a suit;</hi> and it should afterwards appeare, that either he had discarded all of that suit, or else had not at first any of it at all; he is then bound to play such a suit as the other shall appoint him. And here it
+<pb n="11" facs="tcp:169861:10"/>is to be noted, that each of them, as well the Elder, as the Youn<g ref="char:EOLhyphen"/>ger hand, is necessarily to dis<g ref="char:EOLhyphen"/>card at least one Card, how good so ever their Game be.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII.</head>
+               <argument>
+                  <p>
+                     <hi>Of the</hi> Ruffe.</p>
+               </argument>
+               <p>AFter they have done dis<g ref="char:EOLhyphen"/>carding, and have taken in each of them what Cards they please, they then begin to look after the <hi>Ruffe,</hi> and to see, how much each of them can make of a suit. The Elder hand then speaking what he can shew, if the other have not as much, or more, his <hi>Ruffe</hi> is then
+<pb n="12" facs="tcp:169861:11"/>good: and for every <hi>Ten</hi> that he can reckon, he is to set up One. As for example, for Thirty, he is to reckon Three; for Four<g ref="char:EOLhyphen"/>ty, Foure; and so upward. Where by the way it is to be noted, that you are to reckon as much for Thirty five, as for Forty; and as much for Forty five, as for Fifty; and so of the rest: but for thirty six, thirty seven Thirty eight, or Thirty nine, you are to reckon no more then for Thirty five: in like manner as for Thirty one, Thirty two, Thirty three, or Thirty foure, you are to reckon no more then for Thirty. And the same rule is to be observed in all other higher numbers.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="13" facs="tcp:169861:11"/>
+               <head>CHAP. VIII.</head>
+               <argument>
+                  <p>
+                     <hi>Of</hi> Sequences, <hi>and their Value.</hi>
+                  </p>
+               </argument>
+               <p>AFter the <hi>Ruffe</hi> is plaid, the Elder hand then saies what <hi>Sequences</hi> he hath, if he have any: and these are, <hi>Tierces, Quartes, Quintes, Sixiesmes, Sep<g ref="char:EOLhyphen"/>tiesmes, Huictiesmes,</hi> and <hi>Neufi<g ref="char:EOLhyphen"/>esmes;</hi> according to the num<g ref="char:EOLhyphen"/>ber of Cards which he hath of the same suit, which follow in sequence. As for example: the <hi>Tierces</hi> are, (begining at the least Card, and so going up<g ref="char:EOLhyphen"/>ward) <hi>Sixe, Seven,</hi> and <hi>Eight; Nine, Ten,</hi> and <hi>Knave; Queen, King,</hi> and <hi>Ace:</hi> which is the
+<pb n="14" facs="tcp:169861:12"/>highest or biggest <hi>Tierce,</hi> and is called a <hi>Tierce major.</hi>
+               </p>
+               <p>A <hi>Quart</hi> is, where there is a <hi>sequence</hi> of foure Cards of a suit; a <hi>Quint</hi> is a <hi>sequence</hi> of five; a <hi>Sixiesme,</hi> of sixe; a <hi>Septiesme,</hi> of seven; a <hi>Huictiesme,</hi> of eight; and a <hi>Neufiesme,</hi> of nine; And therefore they are called, by the French, <hi>Tierces, Quartes, Quin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es, Sixiesmes, Septiesmes Huictiesmes,</hi> and <hi>Neufiesmes.</hi> Now these <hi>Sequences</hi> take their name from the highest, or biggest Card in the <hi>Sequence;</hi> as for example; it is a <hi>Tierce Major,</hi> or a <hi>Tierce</hi> of an <hi>Ace,</hi> when there is <hi>Queen, King</hi> and <hi>Ace:</hi> a <hi>Tierce</hi> of a <hi>King</hi> is, when the <hi>King</hi> is the
+<pb n="15" facs="tcp:169861:12"/>biggest Card of it; a <hi>Tierce</hi> of a <hi>Queen,</hi> when there is neither <hi>King,</hi> nor <hi>Ace</hi> in it: and so in all the rest, till you come down as low as to the <hi>Tierce</hi> of an <hi>Eight;</hi> which is the least <hi>Tierce</hi> of all.</p>
+               <p>For every <hi>Tierce,</hi> you reckon Three; for every <hi>Quart,</hi> foure; but a <hi>Quint</hi> is Fifteen, a <hi>Sixiesme,</hi> sixteen; a <hi>Septiesme,</hi> seventeen; a <hi>Huictiesme,</hi> eighteen; and a <hi>Neufiesme,</hi> nineteen. Now what ever you can make of all these, you are to add it to your <hi>Blanche,</hi> (if you have any,) or to your <hi>Ruffe,</hi> reckoning the whole together.</p>
+               <pb n="16" facs="tcp:169861:13"/>
+               <p> And here it is to be noted, that the biggest <hi>Tierce, Quart, Quint,</hi> or other <hi>Sequence,</hi> although there be but one of them, drownes all the Others Lesser <hi>Sequences,</hi> be they never so many, so that they become utterly uselesse unto him: and besides, he that hath the biggest <hi>Sequence,</hi> whether it be a <hi>Tierce Major,</hi> or the like, shall by vertue of It reckon all his Lesser <hi>Sequences,</hi> though they should be such, as otherwise his adversaries grea<g ref="char:EOLhyphen"/>ter <hi>Sequence</hi> would have drown<g ref="char:EOLhyphen"/>ed. As for example: suppose that one of them hath a <hi>Tierce Major,</hi> and withall a <hi>Tierce</hi> of a <hi>Queen,</hi> a <hi>Tierce</hi> of a <hi>Knave,</hi> or any
+<pb n="17" facs="tcp:169861:13"/>other <hi>Lesser Tierce,</hi> and the other hath a <hi>Tierce</hi> of a <hi>King:</hi> I say, that for as much as the <hi>Tierce Major</hi> of the one drownes the others <hi>Tierce</hi> of a <hi>King;</hi> he that hath the <hi>Tierce Major</hi> shall, by vertue of It, reckon also all his Lesser <hi>Tierces,</hi> of <hi>Queens, Knaves,</hi> and the like.</p>
+               <p>It is further to be noted, that a <hi>Quart</hi> drownes a <hi>Tierce;</hi> and a <hi>Quint</hi> drownes a <hi>Quart;</hi> and so of all the rest: in so much that he that hath a <hi>Sixiesme</hi> may reckon his <hi>Tierces, Quarts,</hi> or <hi>Quints,</hi> if he have any, notwith<g ref="char:EOLhyphen"/>standing that the other may haply have a <hi>Tierce, Quart,</hi> or <hi>Quint,</hi> of higher value then His
+<pb n="18" facs="tcp:169861:14"/>are, who hath the <hi>Sixiesme.</hi> And the method is the same in all other the like <hi>Sequences.</hi>
+               </p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX.</head>
+               <argument>
+                  <p>
+                     <hi>Of</hi> Three Aces, Kings, Queens, &amp;c. <hi>and of</hi> Quatorzes.</p>
+               </argument>
+               <p>AFter <hi>Sequences,</hi> you then come to reckon your <hi>Three Aces, Three Kings, Three Knaves,</hi> or <hi>Three Tens,</hi> if you have any of these. And for each of these <hi>Ternaries,</hi> or Threes, you are to reckon Three: and these are in value according as the Cards are whereof they consist; in like manner as it is
+<pb n="19" facs="tcp:169861:14"/>in <hi>Sequences:</hi> so that <hi>Aces</hi> are the highest, and best; next them, are <hi>Kings,</hi> then <hi>Queens;</hi> after these, <hi>Knaves;</hi> and last of all, <hi>Tens.</hi> For as for <hi>Nines, Eights, Sevens,</hi> and <hi>Sixes,</hi> they have no place here in this account. And here likewise he that hath Three <hi>Aces</hi> may reckon his Three <hi>Queens,</hi> Three <hi>Knaves,</hi> or Three <hi>Tens,</hi> if he have them, notwith<g ref="char:EOLhyphen"/>standing that the other have Three <hi>Kings;</hi> and this, by ver<g ref="char:EOLhyphen"/>tue of his higher <hi>Ternary.</hi> In a word, the Rule is in this case the same that it is in <hi>Tierces, Quarts, Quints,</hi> and other <hi>Sequences;</hi> where the Higher
+<pb n="20" facs="tcp:169861:15"/>alwaies drownes the Lower. Now he that hath Foure <hi>Aces,</hi> Foure <hi>Kings,</hi> Foure <hi>Queens,</hi> Foure <hi>Knaves,</hi> or Foure <hi>Tens,</hi> reckons, for each of these, Four<g ref="char:EOLhyphen"/>teen: and for this reason every such Foure Cards is called a <hi>Quatorze:</hi> which <hi>Quatorzes</hi> do in like manner win one ano<g ref="char:EOLhyphen"/>ther, according to the Higher, or Lesser value of the Cards, whereof they consist; as hath been said.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="21" facs="tcp:169861:15"/>
+               <head>CHAP. X.</head>
+               <argument>
+                  <p>
+                     <hi>Of playing the Cards.</hi>
+                  </p>
+               </argument>
+               <p>AFter all this is done, and that each of the game<g ref="char:EOLhyphen"/>sters hath reckoned up his whole game whatever he can make, either in <hi>Blanche, Ruffe, Sequences, Aces, Kings, Queens, Knaves,</hi> or <hi>Tens,</hi> the Elder hand is then to begin to play his Cards, the other an<g ref="char:EOLhyphen"/>swering each Card of his, in like manner as it is at <hi>Trump;</hi> and for every <hi>Ace, King, Queen, Knave,</hi> or <hi>Ten</hi> that he playes, he is to reckon One: but for any other Card under a <hi>Ten</hi> he is
+<pb n="22" facs="tcp:169861:16"/>not to reckon any thing. Now these Cards, thus plaid downe, are wonne by him that plaies downe the biggest Card, so it be of the same Suit, and not otherwise. For he that plaies a <hi>Sixe</hi> of any Suit, if the other, having none of that Suit in his hand, play to it an <hi>Ace</hi> perhaps, or a <hi>King, Queen,</hi> or the like; he shall not winne the others <hi>Sixe,</hi> nor yet reckon any thing for his Card, though it be a <hi>Ten</hi> Card, or better. For He only is to reckon upon his Cards as he playes them, who either playes first, or else winnes the <hi>Tricke.</hi> A Card once plaid down can<g ref="char:EOLhyphen"/>not be recalled, or taken up
+<pb n="23" facs="tcp:169861:16"/>againe; except he that plaid it find, that he hath a Card of the same Suit which was first plaid: for in this case he may take up his Card againe, and answer the Other's Card in the same Suit, without any preiudice to him at all, or imputation of Fowle Play.</p>
+               <p>An example of this Playing of the Cards may be this. Sup<g ref="char:EOLhyphen"/>pose the Elder hand first plaies down an <hi>Ace, King, Queen, Knave,</hi> or <hi>Ten;</hi> for every such Card he is to reckon One, which he reckons on to the number of his game before. Now if the other be able to play upon it a bigger
+<pb n="24" facs="tcp:169861:17"/>Card of the same Suit, he then winnes the <hi>Trick,</hi> and shall al<g ref="char:EOLhyphen"/>so reckon One for His Card, as the other did for his when he plaid it downe. And now it is the Younger hands turne to play first, of what Suit he pleases: and so he is to conti<g ref="char:EOLhyphen"/>nue on, as long as he can keep it in his hand. And thus they play on, while their Cards last: and whosoever winnes the last <hi>Trick,</hi> he is to reckon Two for it, if he win it with a <hi>Ten:</hi> but if his last Card were but a <hi>Nine, Eight, Seven,</hi> or <hi>Sixe,</hi> he is then to reckon but One for it. When all this is done, they tell their
+<pb n="25" facs="tcp:169861:17"/>Cards; and he that hath gotten the most, is to reckon Ten for them: but if they have each of them his Cards, they are then neither of them to reckon any thing.</p>
+               <p>After all this is done, each man with Counters, or the like, sets up all the games he hath made this Dealing: and if nei<g ref="char:EOLhyphen"/>ther of them hath at this first Bout wonn the Set, they then fall to dealing the Cards about agen; having first shuffled, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut them, as before. Now he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat was the Elder hand before, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s now to be Dealer: and so <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey are to take it in their
+<pb n="26" facs="tcp:169861:18"/>Turnes successively, till such time as on one side or other the Set is wonne. Which done, if he that lost the Set have a mind to play any more, they then lift againe for Dealing; that is to say, if they did at first agree to lift for the Dealing at the end of every Set: For otherwise there is no need of any such thing; but when a Set is done, he that was the Elder hand before, is now to take his Turne in Dealing first in the new Set, in the same manner as he should have done, had not the Set been ended: Each of the gamesters notwithstanding having the
+<pb n="27" facs="tcp:169861:18"/>liberty to give ouer play at the end of any Set; there being no obligation upon him to play any longer than himself pleases, though the other perhaps be the Loser, and should in the next Set have been the Elder hand by Course. And observe, that a Set is won in this man<g ref="char:EOLhyphen"/>ner here following.</p>
+               <p>Suppose that each of the Gamesters is got up so forward in the game, that they want not above Foure, or Five, apiece, of the Set: If now it so fall out, that Either of them have a <hi>Blanche,</hi> he shall win the Set; for as much as the <hi>Blanches</hi> are alwaies
+<pb n="28" facs="tcp:169861:19"/>reckoned first of all. But if there be never a <hi>Blanche,</hi> then the <hi>Ruffe</hi> comes next in order to be reckoned; and after the <hi>Ruffe,</hi> come your <hi>Sequences;</hi> then your <hi>Aces, Kings, Queens, Knaves,</hi> and <hi>Tens;</hi> next, that which you reckon for your Cards in play<g ref="char:EOLhyphen"/>ing: and after all these, the Cards you have won; which cannot be reckoned till the last of all, when you have plaid them out all.</p>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="29" facs="tcp:169861:19"/>
+               <head>CHAP. XI.</head>
+               <argument>
+                  <p>Of a <hi>Picq, Repicq,</hi> and <hi>Capot.</hi>
+                  </p>
+               </argument>
+               <p>VVhich so ever of the two Game<g ref="char:EOLhyphen"/>sters can reck<g ref="char:EOLhyphen"/>on, either in <hi>Blanche, Ruffe, Sequences, Aces, Kings, Queens, Knaves,</hi> or <hi>Tens,</hi> up to <hi>Thirty,</hi> in his hand, without playing any Card, and before the other can reckon any thing, instead of counting <hi>Thirty,</hi> he shall reckon <hi>Ninety:</hi> and look how many he makes afterwards above his <hi>Thirty,</hi> he shall reckon them with his <hi>Ninety:</hi> as for example; instead of saying, <hi>Thirty one,
+<pb n="30" facs="tcp:169861:20"/>Thirty two, Thirty three,</hi> &amp;c. he shall reckon, <hi>Ninety One, Ninety two, Ninety three,</hi> and so forward. And this is called, a <hi>Repicq.</hi>
+               </p>
+               <p>Againe, he that can in like manner make, what by <hi>Blanche, Ruffe, Sequences, &amp;c.</hi> and also by playing his first Card, up to the said number of <hi>Thirty,</hi> be<g ref="char:EOLhyphen"/>fore the other hath playd any Card, or can reckon any thing; instead of reckoning <hi>Thirty,</hi> he shall reckon <hi>Sixty,</hi> and this is called a <hi>Picq.</hi>
+               </p>
+               <p>And here it is to be noted, that if, instead of reckoning <hi>Sixty,</hi> he by mistake, or for<g ref="char:EOLhyphen"/>getfullnesse say <hi>Thirty;</hi> and so going on, reckons <hi>Thirty one,
+<pb n="31" facs="tcp:169861:20"/>Thirty two &amp;c.</hi> if at length he re<g ref="char:EOLhyphen"/>calling himselfe say, <hi>And Thir<g ref="char:EOLhyphen"/>ty for the Picq,</hi> which makes <hi>Sixty two,</hi> or for the <hi>Repicq, Ninety two,</hi> or the like, he shall not in this case lose either of them, though he should not perchance recall himselfe till all the Cards were play'd, and they had both made up their whole Reckonings: provided alwaies, that he remember to call for them before the Cards be shuffled again, and cut for a new Dealing, and perhaps some of the Cards dealt abroad: for it is then too late to call either for the <hi>Picq,</hi> or <hi>Repic{que}</hi> but he must be content to give them over for lost.</p>
+               <pb n="32" facs="tcp:169861:21"/>
+               <p> Which of them soever wins all the Cards, instead of rec<g ref="char:EOLhyphen"/>koning <hi>Ten,</hi> (which is the usuall number for him to reckon up<g ref="char:EOLhyphen"/>on, that winnes more than his own Cards,) he shall reckon <hi>Fourty;</hi> and this is called a <hi>Ca<g ref="char:EOLhyphen"/>pot.</hi>
+               </p>
+               <p>And here it is to be noted, that if both Gamesters have Equall Cards, both for <hi>Ruffe, Se<g ref="char:EOLhyphen"/>quences,</hi> and the rest, neither of them both can reckon any thing; there being no Priority at all in this case, or Prerogative of Eldership: and they can only set up what they shall be able to make in playing their Cards, or winning them.</p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="33" facs="tcp:169861:21"/>
+               <head>CHAP. XII.</head>
+               <argument>
+                  <p>
+                     <hi>Of the</hi> Rules <hi>of the Game; and the</hi> Cases <hi>that usually happen in Play.</hi>
+                  </p>
+               </argument>
+               <p>FIrst of all, if the Dealer ei<g ref="char:EOLhyphen"/>ther give the other, or take himselfe more Cards than his due, whether it be by mis<g ref="char:EOLhyphen"/>take, or otherwise with a pur<g ref="char:EOLhyphen"/>pose of Fowle play, it is in the choice of the Elder hand, whe<g ref="char:EOLhyphen"/>ther he shall deale againe or no, or whether they shall play it out. As for example; Suppose the Elder hand find, that he hath Thirteen Cards, instead of
+<pb n="34" facs="tcp:169861:22"/>Twelve: if he please, he may play it on: only he is in this case to discard one Card more than he taketh in; that so he may have but his just number of Twelve to play with, as the other hath. But if it so fall out, that the Dealer have given him<g ref="char:EOLhyphen"/>self Thirteen Cards; it being in the power of the Elder hand only to choose, whether he shall deale againe, or they shall play it out; (because the Dealer only here can be in the fault:) if the Elder hand will play it out, after he hath discarded what Cards he thinks fit, and hath taken in as many of the
+<pb n="35" facs="tcp:169861:22"/>Stocke, the other is then to make himselfe up an even Douzen, by laying out one card more than he takes in: and this is never to be done, without notice of it first given by the party to his fellow gamester; and that too before they have seen the Cards they intend to take in, or have mixed them with their other former Cards: For it is then too late to thinke of rectifying their number of Cards. And this is the Law of the Play in this case; which who so observes not, he is liable to the punishment hereafter Specified for those that take more Cards than their due.
+<pb n="36" facs="tcp:169861:23"/>And here it is to be noted, that if the Dealer either give the o<g ref="char:EOLhyphen"/>ther, or take himself Fifteen, or Sixteen Cards, (which may easily be, by giving the other, or taking himselfe, a Lift more than he should,) in this case he must necessarily deale againe; neither is it in either of their choyces to do otherwise; and that, to avoyd all the confusion which would otherwise necessa<g ref="char:EOLhyphen"/>rily arise from hence.</p>
+               <p>He that forgetting to reckon his <hi>Blanche, Ruffe, Sequences, Aces, Kings,</hi> or the like, hath begun to play his Cards, he cannot then reckon them, but must
+<pb n="37" facs="tcp:169861:23"/>utterly lose them for his for<g ref="char:EOLhyphen"/>getfullnesse.</p>
+               <p>Whosoever, before he play his first Card, doth not shew his <hi>Ruffe,</hi> if it be more than the other hath, or else his <hi>Pareil,</hi> if it be equall to his, as also his <hi>Sequences,</hi> he is debarred from shewing them afterwards, and must utterly lose them; and besides, his Adversary shall reck<g ref="char:EOLhyphen"/>on whatsoever he can shew of the same things, though they be of lesse value than His are, and notwithstanding that he hath play'd some of his Cards, provid<g ref="char:EOLhyphen"/>ed alwaies that he shew what he hath; and that, so soon as
+<pb n="38" facs="tcp:169861:24"/>ever the errour of the other is discovered. For if he afterwards play but one Card more after this discovery, before he shew what he hath, he is then to lose all such things, as well as the former.</p>
+               <p>Who ever shall reckon any thing false, as if he say, <hi>I have Three,</hi> or <hi>Foure Aces, Kings, Queens, Knaves,</hi> or <hi>Tens,</hi> which games are not used to be shewed, as the <hi>Blanche, Ruffe,</hi> and <hi>Se<g ref="char:EOLhyphen"/>quences</hi> are, if he have plaid but one of his Cards, having reck<g ref="char:EOLhyphen"/>oned the aforesaid games; and his Adversary shall at length find, either in the beginning, middle,
+<pb n="39" facs="tcp:169861:24"/>or end of the Game, that he had not those things which he reck<g ref="char:EOLhyphen"/>oned, (which might come to passe, either by his oversight, or else perhaps by having discarded some of the Cards he reckoned on,) he shall for his punishment be debarred from reckoning any thing of all that he truly hath; and his Adversary shall have power to reckon all that He hath: Yet shall not this hinder the other from making what he can in playing his Cards: and this Penalty lies upon him but for this one Dealing only. And here it is to be noted, that this false reckoning of the one can<g ref="char:EOLhyphen"/>not at all hinder the <hi>Picq,</hi> or
+<pb n="40" facs="tcp:169861:25"/>
+                  <hi>Repicq</hi> of the other: For in this case, the oversight of the one is not to hinder the other from making the most of His game; notwithstanding that the dis<g ref="char:EOLhyphen"/>covery were not made before he had begun to play his Cards; or till the middle, or very end of the Game.</p>
+               <p>He that takes in more Cards than he discardeth, is liable to the same penalty; or if he be found in playing to have more Cards than he should have. But he that takes fewer than he should, or in playing is found to have fewer than his due, he is notwithstanding to play his Game, and to reckon
+<pb n="41" facs="tcp:169861:25"/>what he hath: for as much as a man may play with lesse than his due, though not with more: and he that hath fewer Cards than he should have, is to answer the others Cards as he playes them, so long as his will hold out: as for example; If he that hath Twelve Cards, win Ten Tricks one after an other, and his two last cards be of two different Suites, he that hath but one Card left, is bound to Play it down to answer the others Card which he playes, although it be not of the same Suit, and so by this meanes he come to be <hi>Capotted;</hi> and that too, though perhaps his last Card be a big<g ref="char:EOLhyphen"/>ger
+<pb n="42" facs="tcp:169861:26"/>Card, and of the same Suit that the others last Card is. For, as hath been formerly said, he is bound to answer the Cards the other plaies, as long as he is able; seeing it is by his own default only that he wants of his due, since it was in his own power to have taken what was his due.</p>
+               <p>Moreover, any Card, that is once out of the hand, and downe upon the board, can<g ref="char:EOLhyphen"/>not at all be recalled againe▪ except he that plaid it, knew not that he had any of the Suit which the Other's Card is of and so plaid it by mistake: for in this case he is to take up
+<pb n="43" facs="tcp:169861:26"/>his Card againe, and to follow Suit. For, no man ought to re<g ref="char:EOLhyphen"/>nounce, or not follow Suit, if he may do otherwise: and for this Oversight there is no penal<g ref="char:EOLhyphen"/>ty due. But if a man, intending to play an <hi>Ace, King, Queen,</hi> or other, should by chance, before he be aware, throw down some other Card, which is a lesse Card than that the other plaid before; if his Card be once out of his hand, it is to go, and cannot by any meanes be recalled againe.</p>
+               <p>Furthermore, if any one, in<g ref="char:EOLhyphen"/>stead of reckoning three, or foure <hi>Aces, Kings, Queens, Knaves,</hi> or <hi>Tens,</hi> chance to reckon some other thing, which
+<pb n="44" facs="tcp:169861:27"/>he hath not; he loseth his whole Game, as hath formerly been said. As for Example; Suppose that one of them ha<g ref="char:EOLhyphen"/>ving <hi>Aces,</hi> should reckon <hi>Kings,</hi> or the like, which he hath not; in this case, although he really have <hi>Aces</hi> in his hand, yet not<g ref="char:EOLhyphen"/>withstanding by reason of this mistake of his, in reckoning the one for the other, he is to undergoe the penalty in this case due to the Offender by the Lawes of the Game: but this, for that Dealing only; and in case he perceived not his Errour untill he had begun to play his Cards. For if he have not yet plaid any of his Cards, he hath
+<pb n="45" facs="tcp:169861:27"/>liberty then to recall himself; and there is no more to be said to him.</p>
+               <p>He that hath throwne up his Cards, upon a presumption that he shall lose them all, and hath mingled them with the other Cards which are up<g ref="char:EOLhyphen"/>on the Table; if he afterwards perceive that he was mistaken, he is by no meanes however allowed to take up his Cards againe and play it out, but must lose it. But yet notwith<g ref="char:EOLhyphen"/>standing, in case the Cards have not at all been mixed one with the other, he may then play it out, to try whether he hath lost the Cards, or not.</p>
+               <pb n="46" facs="tcp:169861:28"/>
+               <p> Moreover, if, as it often happens, the Gamesters having not above two, or three Cards apiece left in their hands, one of them (believing that his ad<g ref="char:EOLhyphen"/>versary hath the better Cards of the two, and therefore in all probability will winne the Cards) shall throw down his Cards all at once; those Cards which first touch the Table, are to be supposed the first playd. So that if the other should chance to have discarded one, or two of those Cards which his adversary conceived him to have had in his hand; he may either take, or leave the said Cards, according as he shall
+<pb n="47" facs="tcp:169861:28"/>find his own Cards to be ei<g ref="char:EOLhyphen"/>ther bigger, or lesser than those upon the Table.</p>
+               <p>No man is suffered to make two discardings: as for example; Suppose the Elder hand dis<g ref="char:EOLhyphen"/>cards sixe Cards, and so con<g ref="char:EOLhyphen"/>sequently is to take in sixe: If by chance, coming to the sea<g ref="char:EOLhyphen"/>venth Card, he should know it by the backside, and knowing it to be for his turne, should desire to take it in too; this is not to be allowed him: For, he may not make a second dis<g ref="char:EOLhyphen"/>carding, by putting out one Card more, that so he may take in an other Card which he knowes would be usefull to him.</p>
+               <pb n="48" facs="tcp:169861:29"/>
+               <p> In like manner, if the Youn<g ref="char:EOLhyphen"/>ger hand, (purposing not to take in all the remaining Cards, but to leave one or two of them) after he hath discarded so many as he intended to take in, and hath taken in as many, shall know the next Card by the back, and would discard another Card, that he might take in one more of the Stock; he is not permitted to do this, no more than the other: neither is it allowed to either of them, before they have discarded, to examine the Cards which they are to take in, that is to say, to spread, or scatter them abroad; because
+<pb n="49" facs="tcp:169861:29"/>that by this meanes they may possibly know them by the backside. And therefore the Se<g ref="char:EOLhyphen"/>nior hand ought to tell the other truly what number of Cards he intends to take in, and what to leave, to the end that the other may not take occasion to say, <hi>I know not ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> many Cards you have taken in; and therefore you must give me leave to tell the rest.</hi> Now this he could have no pretence to do, had not the Elder hand refused to have told him what number of Cards he had taken, and what he had left.</p>
+               <p>Likewise if either of them dis<g ref="char:EOLhyphen"/>card fewer Cards than he takes
+<pb n="50" facs="tcp:169861:30"/>in, and the other perceive that he hath taken too many; if so be he hath neither put back a<g ref="char:EOLhyphen"/>ny one of them himself, nor hath clapt them upon his own Cards; he is only then fairely to returne back those Cards which he hath too much; But if he have first thrown back any one of them himselfe, or that he have laid them upon the rest of his own Cards, this renders him liable to the losse of his Game; but for that Dealing only.</p>
+               <p>He that dealt last, if forget<g ref="char:EOLhyphen"/>ting himselfe, he deale again; yet at length finding his owne errour, remembers that it is not
+<pb n="51" facs="tcp:169861:30"/>his Turne to deale; the other is then necessarily to take his Turne and deale: allwaies pro<g ref="char:EOLhyphen"/>vided, that he, that had dealt twice together, had not seen any of his Cards; although the other might have seen His.</p>
+               <p>Againe, if the Elder hand Speaking his <hi>Ruffe, Sequences, Aces, Kings,</hi> or the like, the o<g ref="char:EOLhyphen"/>other Say to him, <hi>It is good:</hi> if after wards looking better up<g ref="char:EOLhyphen"/>on his Cards, (he having not yet plaid any Card, for then it is too late to recall himselfe;) he find that he was mistaken, and that he hath in his hand more for the <hi>Ruffe,</hi> or greater, or lesser <hi>Sequences,</hi> or <hi>Aces,
+<pb n="52" facs="tcp:169861:31"/>Kings,</hi> or the like, which are of higher value than those things which the other reckoned up<g ref="char:EOLhyphen"/>on; he may in this case recall himselfe, and reckon what he hath.</p>
+               <p>In like manner, if the Youn<g ref="char:EOLhyphen"/>ger hand giving the Elder leave to reckon what he hath, in the <hi>Ruffe, Sequences, Aces, Kings,</hi> or the like, shall yet, before he plaies his first Card, recall him<g ref="char:EOLhyphen"/>selfe, finding that he himselfe can reckon as much, or more than the other in the same things; he may here in this case come in and reckon what he hath, notwithstanding that the Elder may have plaid his first
+<pb n="53" facs="tcp:169861:31"/>Card downe: who is also here<g ref="char:EOLhyphen"/>by constrained to take downe whatsoever he had before set up of his game, in prejudice to the Other: the First word (as hath been formerly shewed,) not being necessarily to stand. For so, in speaking the <hi>Ruffe,</hi> if a man, out of designe to disco<g ref="char:EOLhyphen"/>ver what Cards the other hath, and to gaine some light, by the help of his owne hand, to know what the other hath in His, shall say, <hi>I am so much for the Ruffe,</hi> though the number he pitches upon be more, or perhaps lesse, than he really hath; when the other hath af<g ref="char:EOLhyphen"/>terwards told what he is for
+<pb n="54" facs="tcp:169861:32"/>the <hi>Ruffe,</hi> the former hath then liberty to tell the just summe that he hath: neither lies there any Penalty upon his recalling his first word. For, this is the Liberty of This Game; especi<g ref="char:EOLhyphen"/>ally at <hi>Paris,</hi> and the parts thereabout. Yet in some Other places, as in <hi>Provence,</hi> and <hi>Lan<g ref="char:EOLhyphen"/>guedoc,</hi> the First word is alwaies to stand; neither is a man by any meanes permitted to recall his Word.</p>
+               <p>A <hi>Blanche</hi> is reckoned before any other thing, and it is to be showne, as well by the Elder, as by the Younger hand, before Discarding; as hath been for<g ref="char:EOLhyphen"/>merly said: For afterwards it
+<pb n="55" facs="tcp:169861:32"/>is not by any meanes to be al<g ref="char:EOLhyphen"/>lowed of; notwithstanding that he that had it, is able to make it appear, by the witnesse of the Standers by that he had a <hi>Blanche.</hi> And he that hath a <hi>Blanche,</hi> his <hi>Blanche</hi> shall hin<g ref="char:EOLhyphen"/>der the others <hi>Picq</hi> and <hi>Repic{que}</hi> and that too, though he have nothing else to shew but his <hi>Blanche:</hi> and his <hi>Blanche</hi> also is to be reckoned with what o<g ref="char:EOLhyphen"/>ther Games soever he shall be able to make.</p>
+               <p>He that hath four <hi>Aces</hi> dealt him, or four <hi>Kings, Queens, Knaves</hi> or <hi>Tens;</hi> if he discard<g ref="char:EOLhyphen"/>ing one of the foure, shall af<g ref="char:EOLhyphen"/>terwards reckon the other
+<pb n="56" facs="tcp:169861:33"/>Three, and the other shall say to him, <hi>It is good:</hi> if after he hath reckoned them, the other shall aske him, what <hi>Ace, King, Queene, Knave,</hi> or <hi>Ten</hi> he wants, he is bound to tell him, or else to shew his other Three, if the other desire to see them; neither may be refuse to do this.</p>
+               <p>If it so happen, that in playing the Cards, they are found to be false, or imperfect: as sup<g ref="char:EOLhyphen"/>pose there should be two <hi>Aces, Kings, Queens,</hi> or the like, of a Suit; That Dealing only, where<g ref="char:EOLhyphen"/>in this is discovered, is to go for nothing; all the former standing for good.</p>
+               <pb n="57" facs="tcp:169861:33"/>
+               <p> But if after lifting for Dea<g ref="char:EOLhyphen"/>ling, and cutting the Cards, the Dealer in giving them out shall find, that there are either too many Cards, or too few; they shall not, for this imperfectnesse of the Cards, go to lift for Dea<g ref="char:EOLhyphen"/>ling againe: but only having taken out the Supernumerary Cards, if there be any, or else by putting in what Cards were wanting, the Cards must only be shuffled and cut againe; but the Dealing is to be his, whose it was before.</p>
+               <p>The Dealer may change the nū<g ref="char:EOLhyphen"/>ber by which the Cards were dealt before; provided that before the Cards be cut, he say that he
+<pb n="58" facs="tcp:169861:34"/>wil do so: As for example? suppose they dealt before Three Cards apiece, if the Dealer, having lost, think by changing the number in Dealing, he may possibly change his ill Fortune; he may Deale out the Cards either 2 &amp; 2, or 4 &amp; 4. if, before the Cards be cut, he say he will do so. And afterwards, if his bad Fortune should chance to continue; he hath then the liberty to refume the former number, if he please. But by the way it is to be re<g ref="char:EOLhyphen"/>membred, that he is not by any meanes allowed to exceed the number of foure in Dealing.</p>
+               <p>If, after the Cards have been cleanely Cut, that is to say,
+<pb n="59" facs="tcp:169861:34"/>without Dropping off, or Scattering any of them upon the table, either of the Gamesters, knowing the upper<g ref="char:EOLhyphen"/>most Card, by the back, to be either a Good, or a Bad Card, (as Sup<g ref="char:EOLhyphen"/>pose the Elder hand know it to be a Sixe, or a Seven, and therefore ha<g ref="char:EOLhyphen"/>ving no mind to it,) should tell the o<g ref="char:EOLhyphen"/>ther, that he must shuffle the Cards againe; this is by no meanes to be allowed of: but he is to stand to his Cards, for as much as the Cards were Cleanly cut, without any tumbling, or Scattering of them. And so in like manner, if the Dealer perceive that the Other hath cut himselfe an <hi>Ace,</hi> or some other the like good Card, and would therefore Shuffle, and Cut againe; this is not to be allowed to him neither, no more than to the other. And indeed there ought to be some Penalty set downe, for him that shall offend in this particular: which Penalty the Gamesters ought
+<pb n="60" facs="tcp:169861:35"/>to agree upon, before they begin to play: forasmuch as it as a kind of Cheating, and Foule Play, to do any such thing; and therefore he that offends herein, justly deserves to be punished.</p>
+               <p>If in Dealing, any Card be found to be Faced, this is not a sufficient cause for the Dealer to shuffle the Cards againe, but he ought to deale on; and he, whose Card it happens to be, is to take it, whether it be good, or bad. But if there should chance to be two Cards Faced, or turned up<g ref="char:EOLhyphen"/>side downe, the Cards must then necessarily be shuffled, and cut againe for a new dealing: for otherwise it would be too great an advantage to either of the Gamesters, if he should know two of his Adversaries Cards.</p>
+               <p>Whoever is found changing, or taking backe againe any of his Cards; besides that he is from thenceforth
+<pb n="61" facs="tcp:169861:35"/>to be noted for a Cheating, Fowle Player, he shall also lose his game, and shall not reckon any thing that he hath: and the other ought to re<g ref="char:EOLhyphen"/>fuse him, as a Cheat, and play no more with him.</p>
+               <p>And thus have I given you a briefe Account of the whole game of <hi>Picquet,</hi> and what ever belongs to it. And if by accident any other Difficulties, than are here specified, should arise in Play; they may very easily be resolved out of These here set downe, by examining them ac<g ref="char:EOLhyphen"/>cording to the rules of reason. But as for the Art of Playing well, which consists chiefly in discarding rightly, and in skilfull playing a mans Card, for the winning of the Cards; as these things depend upon the variety of Cards which a man may have in his hand, so would the Demonstra<g ref="char:EOLhyphen"/>tion of the Particular Rules in all
+<pb n="62" facs="tcp:169861:36"/>Cases prove both long, and weari<g ref="char:EOLhyphen"/>some; and perhaps too, when all is done, not so very certaine. it is bet<g ref="char:EOLhyphen"/>ter therefore, that he, who desires to be skilfull in this Game, should play often himselfe, or else observe the play of those that are skilfull in the Game.</p>
+               <trailer>THE END.</trailer>
+               <pb facs="tcp:169861:36"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
